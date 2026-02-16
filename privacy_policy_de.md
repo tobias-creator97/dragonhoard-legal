@@ -2,7 +2,7 @@
 
 **Dragon Hoard - Spielesammlungs-Tracker**
 
-Zuletzt aktualisiert: 3. Februar 2026
+Zuletzt aktualisiert: 16. Februar 2026
 
 ---
 
@@ -35,7 +35,7 @@ Durch die Nutzung von Dragon Hoard stimmen Sie der Erfassung und Verwendung von 
 - Gerätetyp und Betriebssystem (für App-Kompatibilität)
 - App-Version
 
-**Hinweis:** Wir erfassen KEINE Absturzberichte oder Analysedaten. Fehlerprotokolle werden nur lokal auf Ihrem Gerät gespeichert.
+**Hinweis:** Mit Ihrer ausdrücklichen Zustimmung können wir anonymisierte Absturzberichte und Nutzungsstatistiken erfassen, um die App zu verbessern (siehe Abschnitt 4.5 und 4.6). Sie können dies jederzeit in den App-Einstellungen aktivieren oder deaktivieren.
 
 ---
 
@@ -72,6 +72,17 @@ Dragon Hoard nutzt folgende Drittanbieter-Dienste:
 ### 4.4 IGDB (Spiele-Datenbank)
 - Liefert Spieleinformationen und Cover-Bilder
 - Datenschutzerklärung: https://www.igdb.com/privacy_policy
+
+### 4.5 Firebase Analytics & Crashlytics (Google)
+- Erfasst anonymisierte Nutzungsstatistiken und Absturzberichte (nur mit Ihrer Zustimmung)
+- Es werden keine persönlichen Daten geteilt — nur aggregierte Metriken
+- Sie können dies jederzeit in den App-Einstellungen deaktivieren
+- Datenschutzerklärung: https://firebase.google.com/support/privacy
+
+### 4.6 Jina.ai (Preisschätzung)
+- Wird verwendet, um geschätzte Spielpreise aus öffentlichen Webquellen abzurufen
+- Es werden keine persönlichen Daten gesendet — nur Spieletitel zur Preisabfrage
+- Datenschutzerklärung: https://jina.ai/legal/privacy-policy
 
 ---
 
@@ -123,4 +134,4 @@ Bei Fragen zu dieser Datenschutzerklärung oder Ihren persönlichen Daten:
 
 ---
 
-*Diese Datenschutzerklärung gilt ab dem 3. Februar 2026.*
+*Diese Datenschutzerklärung gilt ab dem 16. Februar 2026.*

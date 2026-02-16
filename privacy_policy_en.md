@@ -2,7 +2,7 @@
 
 **Dragon Hoard - Game Collection Tracker**
 
-Last updated: February 3, 2026
+Last updated: February 16, 2026
 
 ---
 
@@ -35,7 +35,7 @@ By using Dragon Hoard, you agree to the collection and use of information as des
 - Device type and operating system (for app compatibility)
 - App version
 
-**Note:** We do NOT collect crash logs or analytics data. Error logs are stored locally on your device only.
+**Note:** With your explicit consent, we may collect anonymized crash reports and usage analytics to improve the App (see Section 4.5 and 4.6). You can enable or disable this at any time in the App settings.
 
 ---
 
@@ -72,6 +72,17 @@ Dragon Hoard uses the following third-party services:
 ### 4.4 IGDB (Game Database)
 - Provides game information and cover images
 - Privacy Policy: https://www.igdb.com/privacy_policy
+
+### 4.5 Firebase Analytics & Crashlytics (Google)
+- Collects anonymized usage statistics and crash reports (only with your consent)
+- No personal data is shared — only aggregated metrics
+- You can opt out at any time in the App settings
+- Privacy Policy: https://firebase.google.com/support/privacy
+
+### 4.6 Jina.ai (Price Estimation)
+- Used to look up estimated game prices from public web sources
+- No personal data is sent — only game titles for price lookup
+- Privacy Policy: https://jina.ai/legal/privacy-policy
 
 ---
 
@@ -123,4 +134,4 @@ If you have questions about this Privacy Policy or your personal data:
 
 ---
 
-*This Privacy Policy is effective as of February 3, 2026.*
+*This Privacy Policy is effective as of February 16, 2026.*
