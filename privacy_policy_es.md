@@ -121,11 +121,19 @@ Usted tiene derecho a:
 - **Acceso**: Solicitar una copia de sus datos personales
 - **Corrección**: Actualizar o corregir su información
 - **Eliminación**: Eliminar su cuenta y todos los datos asociados (disponible en la configuración de la App)
-- **Exportación**: Exportar los datos de su colección de juegos (función de exportación PDF)
+- **Portabilidad de datos (RGPD Art. 20)**: Recibir sus datos personales en un formato estructurado, de uso común y lectura mecánica (JSON)
 
 La eliminación de cuenta elimina permanentemente todos sus datos de nuestros servidores y borra todos los datos almacenados localmente de su dispositivo.
 
-Para ejercer estos derechos, use la configuración de la App o contáctenos por correo electrónico.
+### Solicitar una exportación de datos
+
+Envíe un correo electrónico a **privacy@dragonhoard.app** con el asunto "Exportación de datos" y su ID de cuenta (Configuración → Cuenta). Respondemos exclusivamente al correo electrónico vinculado a su cuenta.
+
+Para cuentas anónimas sin correo electrónico, se requiere adicionalmente un código de exportación con tiempo limitado, que puede generar en la app (Configuración → Cuenta → "Generar código de exportación").
+
+Plazo de tramitación: un mes como máximo.
+
+Para ejercer sus otros derechos, use la configuración de la App o contáctenos por correo electrónico.
 
 ---
 

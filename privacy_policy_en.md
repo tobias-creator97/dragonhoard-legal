@@ -121,11 +121,19 @@ You have the right to:
 - **Access**: Request a copy of your personal data
 - **Correction**: Update or correct your information
 - **Deletion**: Delete your account and all associated data (available in App settings)
-- **Export**: Export your game collection data (PDF export feature)
+- **Data Portability (GDPR Art. 20)**: Receive your personal data in a structured, commonly used, and machine-readable format (JSON)
 
 Account deletion permanently removes all your data from our servers and clears all locally stored data from your device.
 
-To exercise these rights, use the in-app settings or contact us at the email below.
+### Requesting a Data Export
+
+Send an email to **privacy@dragonhoard.app** with the subject "Data Export" and your Account ID (Settings → Account). We respond exclusively to the email linked to your account.
+
+For anonymous accounts without an email, a time-limited export code is additionally required, which you can generate in the app (Settings → Account → "Generate export code").
+
+Processing time: one month maximum.
+
+To exercise your other rights, use the in-app settings or contact us at the email below.
 
 ---
 

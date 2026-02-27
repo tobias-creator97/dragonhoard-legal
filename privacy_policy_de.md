@@ -121,11 +121,19 @@ Sie haben das Recht auf:
 - **Auskunft**: Eine Kopie Ihrer persönlichen Daten anzufordern
 - **Berichtigung**: Ihre Informationen zu aktualisieren oder zu korrigieren
 - **Löschung**: Ihr Konto und alle zugehörigen Daten zu löschen (verfügbar in den App-Einstellungen)
-- **Export**: Ihre Spielesammlungsdaten zu exportieren (PDF-Export-Funktion)
+- **Datenübertragbarkeit (Art. 20 DSGVO)**: Ihre personenbezogenen Daten in einem strukturierten, gängigen und maschinenlesbaren Format (JSON) zu erhalten
 
 Die Kontolöschung entfernt dauerhaft alle Ihre Daten von unseren Servern und löscht alle lokal gespeicherten Daten von Ihrem Gerät.
 
-Um diese Rechte auszuüben, nutzen Sie die In-App-Einstellungen oder kontaktieren Sie uns per E-Mail.
+### Datenexport anfordern
+
+Senden Sie eine E-Mail an **privacy@dragonhoard.app** mit dem Betreff „Datenexport" und Ihrer Account-ID (Einstellungen → Account). Wir antworten ausschließlich an die mit dem Account verknüpfte E-Mail-Adresse.
+
+Bei anonymen Accounts ohne E-Mail ist zusätzlich ein zeitlich begrenzter Export-Code erforderlich, den Sie in der App generieren können (Einstellungen → Account → „Export-Code generieren").
+
+Bearbeitungsfrist: spätestens 1 Monat.
+
+Um Ihre anderen Rechte auszuüben, nutzen Sie die In-App-Einstellungen oder kontaktieren Sie uns per E-Mail.
 
 ---
 
